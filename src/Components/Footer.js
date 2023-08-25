@@ -15,7 +15,7 @@ const Footer = () => {
   return (
     <footer className='bg-dark text-light py-4 mt-3' >
         <p className="text-center">
-            Copyright &copy; needtodolist.in(proposed) <br/>
+            Copyright &copy; needtodolist.netlify.app <br/>
             Developed by : Abhinandan Mukherjee 
         </p>
 
