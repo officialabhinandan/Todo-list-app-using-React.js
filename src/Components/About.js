@@ -46,7 +46,7 @@ function About() {
               redirect you to its github repository for more information.
             </p>
             <div className="button">
-              <a href="https://github.com/officialabhinandan">Know More</a>
+              <a href="https://github.com/officialabhinandan/Todo-list-app-using-React.js">Know More</a>
             </div>
           </div>
           <div className="social">
