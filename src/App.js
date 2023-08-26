@@ -7,7 +7,7 @@ import Footer from "./Components/Footer";
 import About from "./Components/About";
 import React, { useState, useEffect } from "react";
 import AddTodo from "./Components/AddTodo";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";  //Used HashRouter instead of BrowserRouter for better stability.
 
 function App() {
   let initTodo;
